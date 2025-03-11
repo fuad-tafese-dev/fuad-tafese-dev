@@ -1,4 +1,4 @@
-# Hi, I'm [fuad-tafese-dev] 👋
+# Hi, I'm fuad-tafese-dev 👋
 
 ## 🚀 About Me
 I'm a full-stack web developer with expertise in **React, Node.js, MongoDB, MySQL, Python**. I love building scalable web applications and learning new technologies.
