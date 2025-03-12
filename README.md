@@ -9,6 +9,8 @@ I'm a full-stack web developer with expertise in **React, Node.js, MongoDB, MySQ
 - **Databases:** MongoDB, MySQL
 - **Other:** Git, GitHub
 
+- 🌱 Currently learning Next.js and AWS
+
 ## 🌟 coplited Projects
 🔹 [] 
 🔹 [] 
