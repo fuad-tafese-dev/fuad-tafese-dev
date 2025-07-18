@@ -11,8 +11,8 @@ I'm a full-stack web developer with expertise in **React, Node.js, MongoDB, MySQ
 
 - 🌱 Currently learning Next.js and AWS
 
-## 🌟 coplited Projects
-🔹 [] 
+## 🌟 complited Projects
+🔹 [Evangadi-QA-Platform] 
 🔹 [] 
 
 ## 🌟 Featured Projects
